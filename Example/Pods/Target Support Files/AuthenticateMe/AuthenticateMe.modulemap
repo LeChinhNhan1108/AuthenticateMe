@@ -1,0 +1,6 @@
+framework module AuthenticateMe {
+  umbrella header "AuthenticateMe-umbrella.h"
+
+  export *
+  module * { export * }
+}

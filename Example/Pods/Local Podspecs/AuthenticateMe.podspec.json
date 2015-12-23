@@ -1,0 +1,25 @@
+{
+  "name": "AuthenticateMe",
+  "version": "0.1.0",
+  "summary": "A short description of AuthenticateMe.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AuthenticateMe",
+  "license": "MIT",
+  "authors": {
+    "Chinh Nhan": "chinhnhan@ssf.vn"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AuthenticateMe.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "AuthenticateMe": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

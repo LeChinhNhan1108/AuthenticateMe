@@ -1,0 +1,6 @@
+framework module Pods_AuthenticateMe_Example {
+  umbrella header "Pods-AuthenticateMe_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
